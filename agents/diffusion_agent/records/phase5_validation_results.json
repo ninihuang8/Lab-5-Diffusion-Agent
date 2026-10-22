@@ -1,0 +1,68 @@
+{
+  "method": "Unchanged professor validator plus complete recursive application of every constraint present in the frozen output schema using the preserved Phase 3 standard-library checker; not a general-purpose Draft 2020-12 validator",
+  "schema_sha256": "02f991f08e02e43139e4aa80d9f5898aa022ed6ccf4dcf0c329fae670f03698e",
+  "cases": {
+    "primary": {
+      "sha256": "0ecf4e2db470a93e14fd9dc04f7ef0a90a89fec6d20c3cde912b12eb609f543d",
+      "bytes": 28676,
+      "strict_utf8_json_parsed": true,
+      "official_validation": {
+        "command": "python tools/validate_response.py agents/diffusion_agent/responses/primary_v02.json",
+        "exit_code": 0,
+        "stdout": "VALIDATION PASSED\n",
+        "stderr": ""
+      },
+      "schema_passed": true,
+      "schema_errors": [],
+      "extra_top_level": [],
+      "extra_nested": {
+        "agent": [],
+        "evidence": {}
+      },
+      "version_matches": true,
+      "evidence_entries": 8,
+      "word_comparison": {
+        "01": {
+          "bytes": 27647,
+          "approx_words_in_values": 3111
+        },
+        "02": {
+          "bytes": 28676,
+          "approx_words_in_values": 3265
+        },
+        "word_change_percent": 4.9501767920282935
+      }
+    },
+    "contrast_1": {
+      "sha256": "566fdc7648b080f0ac0b3841a8a16e60904729165c302461055b56f9fe98a22d",
+      "bytes": 29822,
+      "strict_utf8_json_parsed": true,
+      "official_validation": {
+        "command": "python tools/validate_response.py agents/diffusion_agent/responses/contrast_1_v02.json",
+        "exit_code": 0,
+        "stdout": "VALIDATION PASSED\n",
+        "stderr": ""
+      },
+      "schema_passed": true,
+      "schema_errors": [],
+      "extra_top_level": [],
+      "extra_nested": {
+        "agent": [],
+        "evidence": {}
+      },
+      "version_matches": true,
+      "evidence_entries": 8,
+      "word_comparison": {
+        "01": {
+          "bytes": 34296,
+          "approx_words_in_values": 3985
+        },
+        "02": {
+          "bytes": 29822,
+          "approx_words_in_values": 3457
+        },
+        "word_change_percent": -13.249686323713927
+      }
+    }
+  }
+}

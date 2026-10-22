@@ -1,0 +1,154 @@
+[
+  {
+    "topic": "R1",
+    "case": "primary",
+    "version": "0.1-student",
+    "file": "responses/primary_v01.json",
+    "field": "general_et_finding",
+    "exact_quote": "widespread organizational experimentation or use beyond initial innovators"
+  },
+  {
+    "topic": "R1",
+    "case": "primary",
+    "version": "0.2-student",
+    "file": "responses/primary_v02.json",
+    "field": "general_et_finding",
+    "exact_quote": "GenAI has documented organizational use, but the packet does not establish its current population diffusion stage."
+  },
+  {
+    "topic": "R1",
+    "case": "contrast_1",
+    "version": "0.1-student",
+    "file": "responses/contrast_1_v01.json",
+    "field": "general_et_finding",
+    "exact_quote": "Consequently, no precise Rogers category or numerical diffusion stage is assigned."
+  },
+  {
+    "topic": "R1",
+    "case": "contrast_1",
+    "version": "0.2-student",
+    "file": "responses/contrast_1_v02.json",
+    "field": "general_et_finding",
+    "exact_quote": "no precise category or current peer-adoption percentage is justified."
+  },
+  {
+    "topic": "R2",
+    "case": "primary",
+    "version": "0.1-student",
+    "file": "responses/primary_v01.json",
+    "field": "application_finding",
+    "exact_quote": "most consequential diffusion-evidence inhibitor"
+  },
+  {
+    "topic": "R2",
+    "case": "primary",
+    "version": "0.2-student",
+    "file": "responses/primary_v02.json",
+    "field": "application_finding",
+    "exact_quote": "Evidence limitation: no representative, dated deployment sample."
+  },
+  {
+    "topic": "R2",
+    "case": "primary",
+    "version": "0.2-student",
+    "file": "responses/primary_v02.json",
+    "field": "organization_specific_finding",
+    "exact_quote": "Approval status is unknown, not denied"
+  },
+  {
+    "topic": "R2",
+    "case": "contrast_1",
+    "version": "0.1-student",
+    "file": "responses/contrast_1_v01.json",
+    "field": "application_finding",
+    "exact_quote": "most consequential application-level uncertainty"
+  },
+  {
+    "topic": "R2",
+    "case": "contrast_1",
+    "version": "0.2-student",
+    "file": "responses/contrast_1_v02.json",
+    "field": "contrary_evidence_or_limitations[4]",
+    "exact_quote": "Missing deployment research is an evidence limitation rather than an observed inhibitor."
+  },
+  {
+    "topic": "R3",
+    "case": "primary",
+    "version": "0.1-student",
+    "file": "responses/primary_v01.json",
+    "field": "confidence_and_uncertainty",
+    "exact_quote": "Confidence was reduced explicitly for majority-stage and deployment-readiness claims during self-critique."
+  },
+  {
+    "topic": "R3",
+    "case": "primary",
+    "version": "0.2-student",
+    "file": "responses/primary_v02.json",
+    "field": "confidence_and_uncertainty",
+    "exact_quote": "These are support-and-scope dispositions from this execution, not claims about a recorded earlier draft or proven self-correction."
+  },
+  {
+    "topic": "R3",
+    "case": "contrast_1",
+    "version": "0.1-student",
+    "file": "responses/contrast_1_v01.json",
+    "field": "confidence_and_uncertainty",
+    "exact_quote": "The support-and-scope review reduced confidence in market-stage, peer-position and outcome-transfer conclusions"
+  },
+  {
+    "topic": "R3",
+    "case": "contrast_1",
+    "version": "0.2-student",
+    "file": "responses/contrast_1_v02.json",
+    "field": "confidence_and_uncertainty",
+    "exact_quote": "Handling W1 and identifying packet limitations are observable final-output dispositions, not evidence of an undocumented internal revision process."
+  },
+  {
+    "topic": "R4",
+    "case": "primary",
+    "version": "0.1-student",
+    "file": "responses/primary_v01.json",
+    "field": "recommendation_management_implication",
+    "exact_quote": "then consider a narrowly scoped, human-reviewed documentation evaluation only if existing approval controls permit it."
+  },
+  {
+    "topic": "R4",
+    "case": "primary",
+    "version": "0.2-student",
+    "file": "responses/primary_v02.json",
+    "field": "recommendation_management_implication",
+    "exact_quote": "Begin with workflow mapping and baseline measurement; use approved data only after required controls are confirmed."
+  },
+  {
+    "topic": "R4",
+    "case": "contrast_1",
+    "version": "0.1-student",
+    "file": "responses/contrast_1_v01.json",
+    "field": "recommendation_management_implication",
+    "exact_quote": "deferring live-data experimentation while continuing evidence collection is a defensible timing implication"
+  },
+  {
+    "topic": "R4",
+    "case": "contrast_1",
+    "version": "0.2-student",
+    "file": "responses/contrast_1_v02.json",
+    "field": "recommendation_management_implication",
+    "exact_quote": "stronger comparable deployment evidence before wider use"
+  },
+  {
+    "topic": "remaining_timing_ambiguity",
+    "case": "primary",
+    "version": "0.2-student",
+    "file": "responses/primary_v02.json",
+    "field": "recommendation_management_implication",
+    "exact_quote": "A more conservative organization could require stronger comparable peer evidence and documented reviewer ownership before the same trial"
+  },
+  {
+    "topic": "remaining_timing_ambiguity",
+    "case": "contrast_1",
+    "version": "0.2-student",
+    "file": "responses/contrast_1_v02.json",
+    "field": "recommendation_management_implication",
+    "exact_quote": "Both primary and contrast scenarios could defensibly begin with approved bounded learning"
+  }
+]

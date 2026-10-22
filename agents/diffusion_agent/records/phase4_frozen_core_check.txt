@@ -1,0 +1,3 @@
+Command: python tools/check_frozen_core.py
+Exit code: 0
+FROZEN CORE INTACT

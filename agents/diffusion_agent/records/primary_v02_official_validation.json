@@ -1,0 +1,6 @@
+{
+  "command": "python tools/validate_response.py agents/diffusion_agent/responses/primary_v02.json",
+  "exit_code": 0,
+  "stdout": "VALIDATION PASSED\n",
+  "stderr": ""
+}

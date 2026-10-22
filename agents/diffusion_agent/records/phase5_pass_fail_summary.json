@@ -1,0 +1,32 @@
+{
+  "scope": "Two supplied v0.2 outputs compared with original v0.1 outputs; not general reliability",
+  "overall": "PASS WITH LIMITATIONS",
+  "primary": {
+    "strict_json": "PASS",
+    "official_validator": "PASS",
+    "complete_applicable_schema": "PASS",
+    "R1": "PASS",
+    "R2": "PASS with minor hypothesized-barrier phrasing limitation",
+    "R3": "PASS for observable reporting, not causal correction",
+    "R4_timing_clarity": "PASS WITH LIMITATIONS",
+    "R4_concision": "FAIL improvement objective: 5.0% longer",
+    "required_framework_coverage": "PASS"
+  },
+  "contrast_1": {
+    "strict_json": "PASS",
+    "official_validator": "PASS",
+    "complete_applicable_schema": "PASS",
+    "R1": "PASS, prior caution retained",
+    "R2": "PASS",
+    "R3": "PASS for observable reporting, not causal correction",
+    "R4_timing_clarity": "PASS WITH LIMITATIONS",
+    "R4_concision": "PASS observed shortening: 13.2%",
+    "required_framework_coverage": "PASS"
+  },
+  "general_stability": "NOT TESTED",
+  "novel_unflagged_error_detection": "NOT TESTED",
+  "causal_self_critique_effect": "NOT ESTABLISHED",
+  "specialist_revision_performed": false,
+  "new_model_executions_by_evaluator": 0,
+  "agent_record_finalized": false
+}

@@ -1,0 +1,27 @@
+{
+  "W2": {
+    "case": "primary",
+    "field": "general_et_finding",
+    "quote": "widespread organizational experimentation or use beyond initial innovators"
+  },
+  "W3a": {
+    "case": "primary",
+    "field": "application_finding",
+    "quote": "most consequential diffusion-evidence inhibitor"
+  },
+  "W3b": {
+    "case": "primary",
+    "field": "organization_specific_finding",
+    "quote": "The most consequential local inhibitor is unresolved permission and data-governance authorization"
+  },
+  "W4_primary": {
+    "case": "primary",
+    "field": "confidence_and_uncertainty",
+    "quote": "Confidence was reduced explicitly for majority-stage and deployment-readiness claims during self-critique."
+  },
+  "W4_contrast": {
+    "case": "contrast_1",
+    "field": "confidence_and_uncertainty",
+    "quote": "The support-and-scope review reduced confidence in market-stage, peer-position and outcome-transfer conclusions"
+  }
+}

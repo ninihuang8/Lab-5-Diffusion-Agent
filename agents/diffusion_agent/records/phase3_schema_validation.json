@@ -1,0 +1,34 @@
+{
+  "method": "Complete recursive checks against all validation keywords present in the unchanged course output schema; not a general-purpose Draft 2020-12 engine",
+  "schema_sha256": "02f991f08e02e43139e4aa80d9f5898aa022ed6ccf4dcf0c329fae670f03698e",
+  "cases": {
+    "primary": {
+      "strict_utf8_json_parsed": true,
+      "schema_passed": true,
+      "errors": [],
+      "additional_top_level_fields": [],
+      "additional_nested_fields": {
+        "agent": [],
+        "evidence": {}
+      },
+      "evidence_entries": 8,
+      "sha256": "27a3b1d4396bb11feca57099a2c7f0707152b9df38382a5f62fdfb5d340828b0",
+      "bytes": 27647,
+      "approx_words_in_values": 3111
+    },
+    "contrast_1": {
+      "strict_utf8_json_parsed": true,
+      "schema_passed": true,
+      "errors": [],
+      "additional_top_level_fields": [],
+      "additional_nested_fields": {
+        "agent": [],
+        "evidence": {}
+      },
+      "evidence_entries": 8,
+      "sha256": "9df4aaceade8c870486c09302937c2ac9e26ce7ee37a322033ec3ef904bb4100",
+      "bytes": 34296,
+      "approx_words_in_values": 3985
+    }
+  }
+}
